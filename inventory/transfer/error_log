@@ -1,0 +1,27 @@
+[29-Jul-2024 12:17:55 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/uitilneuxt/public_html/Syncro/inventory/transfer/receive_transfer.php on line 287
+[29-Jul-2024 12:33:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php on line 3
+[29-Jul-2024 12:33:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php:1) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php on line 7
+[29-Jul-2024 12:34:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php on line 3
+[29-Jul-2024 12:34:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php:1) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php on line 7
+[29-Jul-2024 17:01:02 UTC] PHP Parse error:  syntax error, unexpected '$base_query' (T_VARIABLE) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Resu_trf.php on line 346
+[29-Jul-2024 17:01:28 UTC] PHP Parse error:  syntax error, unexpected '$base_query' (T_VARIABLE) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Resu_trf.php on line 346
+[29-Jul-2024 17:01:29 UTC] PHP Parse error:  syntax error, unexpected '$base_query' (T_VARIABLE) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Resu_trf.php on line 346
+[29-Jul-2024 18:10:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php:45) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php on line 128
+[29-Jul-2024 18:14:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php:50) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php on line 133
+[29-Jul-2024 18:15:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php:50) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php on line 133
+[29-Jul-2024 18:16:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php:90) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php on line 133
+[30-Jul-2024 22:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Resu_trf.php:365
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Resu_trf.php on line 365
+[02-Aug-2024 23:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkAccess() in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php on line 14
+[02-Aug-2024 23:03:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkAccess() in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_transfer.php on line 25
+[02-Aug-2024 23:05:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inc/functions.php:1) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Frm_Add_trf_run.php on line 133
+[02-Aug-2024 23:10:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inc/functions.php:1) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/receive_trf_run.php on line 75
+[02-Aug-2024 23:12:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/inc/functions.php:1) in /home/uitilneuxt/public_html/Syncro/inventory/transfer/Del_Transfer.php on line 37

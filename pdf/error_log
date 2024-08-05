@@ -1,0 +1,186 @@
+[27-Jul-2024 05:09:49 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 356
+[27-Jul-2024 05:09:49 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 356
+[27-Jul-2024 05:10:40 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 356
+[27-Jul-2024 05:10:40 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 356
+[27-Jul-2024 05:19:17 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 359
+[27-Jul-2024 05:19:17 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 359
+[27-Jul-2024 05:20:36 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 360
+[27-Jul-2024 05:20:36 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 360
+[27-Jul-2024 05:23:13 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 05:23:13 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 05:23:56 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 363
+[27-Jul-2024 05:23:56 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 363
+[27-Jul-2024 05:24:00 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 363
+[27-Jul-2024 05:24:00 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 363
+[27-Jul-2024 05:25:53 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 365
+[27-Jul-2024 05:25:53 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 365
+[27-Jul-2024 05:27:27 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 281
+[27-Jul-2024 05:27:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 281
+[27-Jul-2024 05:30:42 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 274
+[27-Jul-2024 05:30:42 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 274
+[27-Jul-2024 05:31:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 95
+[27-Jul-2024 05:33:50 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 05:33:50 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 05:36:04 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 361
+[27-Jul-2024 05:36:04 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 361
+[27-Jul-2024 05:37:12 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 214
+[27-Jul-2024 05:37:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 214
+[27-Jul-2024 10:07:19 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:07:19 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:07:19 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:07:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:366
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 366
+[27-Jul-2024 10:09:38 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:09:38 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:09:38 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:09:47 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:09:47 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:09:47 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:10:22 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:10:22 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:10:22 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:10:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 10:11:04 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:11:04 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:11:04 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:11:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 10:11:20 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:11:20 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:11:20 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:11:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 10:20:00 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:00 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:00 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 10:20:26 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:26 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:26 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 10:20:30 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:30 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:30 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 10:20:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 11:05:52 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:05:52 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:05:52 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:05:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 11:09:01 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:09:01 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:09:01 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:09:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 11:09:25 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:09:25 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:09:25 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:09:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Dompdf' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:367
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 367
+[27-Jul-2024 11:12:18 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:12:18 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:12:18 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:12:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:13:49 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:13:49 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:13:49 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:13:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:14:16 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:14:16 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:14:16 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:14:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:14:41 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:14:41 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:14:41 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:14:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:15:06 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:15:06 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:15:06 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:15:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:15:13 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:15:13 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:15:13 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:15:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:18:06 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:18:06 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:18:06 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:18:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:19:21 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:19:21 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:19:21 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:19:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:19:51 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:19:51 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:19:51 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:19:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:20:37 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Transfer.php on line 339
+[27-Jul-2024 11:20:37 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Transfer.php on line 339
+[27-Jul-2024 11:21:06 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Transfer.php on line 339
+[27-Jul-2024 11:21:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Transfer.php on line 339
+[27-Jul-2024 11:22:15 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:22:15 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:22:15 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:22:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 11:25:18 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:25:18 UTC] PHP Warning:  include(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:25:18 UTC] PHP Warning:  include(): Failed opening '../libraries/dompdf/autoload.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 362
+[27-Jul-2024 11:25:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Dompdf\Options' not found in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php:369
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Order.php on line 369
+[27-Jul-2024 12:44:28 UTC] PHP Warning:  require_once(../libraries/dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Transfer.php on line 339
+[27-Jul-2024 12:44:28 UTC] PHP Fatal error:  require_once(): Failed opening required '../libraries/dompdf/autoload.inc.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/pdf/PDF_Transfer.php on line 339

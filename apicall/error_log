@@ -1,0 +1,329 @@
+[26-Jul-2024 17:53:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uitilneuxt/public_html/Syncro/connection.php on line 11
+[26-Jul-2024 17:54:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uitilneuxt/public_html/Syncro/connection.php on line 11
+[26-Jul-2024 17:56:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uitilneuxt/public_html/Syncro/connection.php on line 11
+[26-Jul-2024 17:57:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uitilneuxt/public_html/Syncro/connection.php on line 11
+[26-Jul-2024 18:00:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:18) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 81
+[26-Jul-2024 18:08:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:18) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 86
+[26-Jul-2024 18:08:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:18) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 87
+[26-Jul-2024 18:08:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:18) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 87
+[26-Jul-2024 22:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 35
+[26-Jul-2024 22:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 35
+[26-Jul-2024 22:30:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 35
+[26-Jul-2024 22:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 36
+[26-Jul-2024 22:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 36
+[26-Jul-2024 22:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 36
+[26-Jul-2024 22:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 36
+[26-Jul-2024 22:51:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection2.php:16) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 80
+[26-Jul-2024 22:51:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection2.php:16) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 85
+[26-Jul-2024 23:13:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 35
+[26-Jul-2024 23:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 35
+[26-Jul-2024 23:31:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 34
+[26-Jul-2024 23:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 34
+[26-Jul-2024 23:33:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/uitilneuxt/public_html/Syncro/connection.php on line 11
+[26-Jul-2024 23:34:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:16) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 81
+[26-Jul-2024 23:40:16 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 39
+[26-Jul-2024 23:42:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:16) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 81
+[27-Jul-2024 02:22:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:16) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 81
+[27-Jul-2024 02:29:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:16) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 87
+[27-Jul-2024 02:32:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/connection.php:16) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 79
+[28-Jul-2024 13:19:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 48
+[28-Jul-2024 13:20:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 48
+[28-Jul-2024 13:20:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 48
+[29-Jul-2024 15:00:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 50
+[29-Jul-2024 15:01:27 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:02:25 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 50
+[29-Jul-2024 15:02:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 50
+[29-Jul-2024 15:03:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 50
+[29-Jul-2024 15:07:31 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 51
+[29-Jul-2024 15:09:04 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 51
+[29-Jul-2024 15:09:34 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 51
+[29-Jul-2024 15:10:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 52
+[29-Jul-2024 15:11:45 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 54
+[29-Jul-2024 15:11:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 54
+[29-Jul-2024 15:12:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 57
+[29-Jul-2024 15:12:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 57
+[29-Jul-2024 15:13:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:13:26 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:14:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:14:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:14:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:16:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 51
+[29-Jul-2024 15:19:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 52
+[29-Jul-2024 15:21:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:23:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 56
+[29-Jul-2024 15:27:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 56
+[29-Jul-2024 15:28:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 57
+[29-Jul-2024 15:28:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 57
+[29-Jul-2024 15:28:43 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 57
+[29-Jul-2024 15:28:52 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 57
+[29-Jul-2024 15:29:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 59
+[29-Jul-2024 15:29:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 59
+[29-Jul-2024 15:29:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 59
+[29-Jul-2024 15:29:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 55
+[29-Jul-2024 15:31:18 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 54
+[29-Jul-2024 15:31:46 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 54
+[29-Jul-2024 15:32:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 54
+[29-Jul-2024 15:36:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 53
+[29-Jul-2024 15:36:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 45
+[29-Jul-2024 15:37:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 48
+[29-Jul-2024 15:40:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uitilneuxt/public_html/Syncro/apicall/loginapi.php on line 55
+[05-Aug-2024 16:50:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:33 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:50:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:56 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:50:59 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:59 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:59 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:50:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:51:01 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:01 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:01 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:51:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:02 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:51:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:16 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:52:54 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:52:54 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:52:54 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:55:38 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:55:38 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:55:38 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:55:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:55:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:55:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:55:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:57:23 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:57:23 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:57:23 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:58:58 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:58:58 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:58:58 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:58:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:59:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:59:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:59:02 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 16:59:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:59:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:59:06 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 16:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:00:42 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:42 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:42 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:00:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:00:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:57 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:01:11 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:01:11 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:01:11 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:01:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:01:54 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:01:54 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:01:54 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:01:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:02:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:02:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:02:35 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:02:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:03:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:03:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:03:06 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:03:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:04:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:04:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:04:13 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:04:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:11:12 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:11:12 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:11:12 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:13:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:13:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:13:04 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:13:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:14:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:14:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:14:34 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:16:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:16:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:16:44 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:17:07 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:07 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:07 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:17:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:17:52 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:52 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:52 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:17:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:26:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:26:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:26:57 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:26:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:27:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:04 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:27:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:19 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22
+[05-Aug-2024 17:27:23 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:23 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:23 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 18
+[05-Aug-2024 17:27:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/apicall/suppliersapi.php on line 22

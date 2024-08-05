@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Export Data</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: green;
+        }
+        .export-buttons {
+            margin-top: 20px;
+        }
+        .btn-export {
+            margin: 5px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .btn-csv {
+            background-color: #4CAF50;
+            color: white;
+        }
+        .btn-csv:hover {
+            background-color: #45a049;
+        }
+        .btn-pdf {
+            background-color: #007bff;
+            color: white;
+        }
+        .btn-pdf:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Export User Data</h1>
+    <div class="export-buttons">
+        <form action="export_csv.php" method="POST" style="display:inline;">
+            <button type="submit" class="btn-export btn-csv">Export as CSV</button>
+        </form>
+        <form action="export_pdf.php" method="POST" style="display:inline;">
+            <button type="submit" class="btn-export btn-pdf">Export as PDF</button>
+        </form>
+    </div>
+</body>
+</html>

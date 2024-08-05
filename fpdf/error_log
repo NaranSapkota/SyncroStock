@@ -1,0 +1,141 @@
+[03-Aug-2024 00:21:18 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/inc/functions.php:1) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1016): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/order_pdf.php(172): FPDF->Output('D', 'Order_PO-0061.p...')
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 00:44:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/uitilneuxt/public_html/Syncro/fpdf/order_pdf.php on line 91
+[03-Aug-2024 01:03:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function connect() in /home/uitilneuxt/public_html/Syncro/fpdf/order_pdf.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/order_pdf.php on line 9
+[03-Aug-2024 01:05:09 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/uitilneuxt/public_html/Syncro/fpdf/order_pdf.php on line 5
+[03-Aug-2024 01:12:23 UTC] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home/uitilneuxt/public_html/Syncro/inc/functions.php:4) in /home/uitilneuxt/public_html/Syncro/inc/functions.php on line 4
+[03-Aug-2024 01:17:59 UTC] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home/uitilneuxt/public_html/Syncro/inc/functions.php:4) in /home/uitilneuxt/public_html/Syncro/inc/functions.php on line 4
+[03-Aug-2024 01:19:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:19:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:19:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:20:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:20:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:20:08 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:20:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:20:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:20:12 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:21:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:21:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:21:27 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:21:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:21:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:21:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:22:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:22:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:22:05 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:22:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:22:09 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:22:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:22:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:22:30 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:22:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:22:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:22:34 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:22:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:22:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:22:48 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:22:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:22:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:22:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 01:23:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 01:23:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 01:23:06 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 12:53:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 12:53:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 12:53:53 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
+[03-Aug-2024 12:54:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 178
+[03-Aug-2024 12:54:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php on line 179
+[03-Aug-2024 12:54:14 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:1012) in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php:273
+Stack trace:
+#0 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1046): FPDF->Error('Some data has a...')
+#1 /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/uitilneuxt/public_html/Syncro/fpdf/transfer_pdf.php(180): FPDF->Output()
+#3 {main}
+  thrown in /home/uitilneuxt/public_html/Syncro/fpdf/fpdf.php on line 273
